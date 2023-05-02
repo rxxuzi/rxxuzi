@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 village garbage collection point
 
 -->
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rxxuzi&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rxxuzi)](https://github.com/rxxuzi/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rxxuzi&hide_border=true&border_radius=5)](https://git.io/streak-stats)
