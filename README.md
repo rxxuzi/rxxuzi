@@ -20,3 +20,5 @@ village garbage collection point
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rxxuzi&theme=github-dark&border_radius=5&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
+
+![chart](https://wakatime.com/share/@rxxuzi/cbf34f23-5a64-4793-925b-fbf6f4be0168.svg)
