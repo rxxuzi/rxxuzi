@@ -20,7 +20,7 @@ I love open source.
 
 </div>
 
-## Wakatime & Strak
+## Wakatime & Streak
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rxxuzi\&layout=compact&synthwave&theme=neon)
 
